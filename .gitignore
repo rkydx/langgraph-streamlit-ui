@@ -1,0 +1,9 @@
+myenv
+.env
+.venv
+env.*
+venv.*
+__pycache__/
+.Python
+*.manifest
+*.spec
