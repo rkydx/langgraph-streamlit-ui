@@ -1,5 +1,5 @@
 # pip install streamlit
-# At the terminal run this command to execute this frontend: streamlit run frontend.py
+# At the terminal run this command to execute this frontend: streamlit run frontend_streaming.py
 # In this file the codes are only related to chat streaming feature
 
 import streamlit as st
